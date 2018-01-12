@@ -17,6 +17,9 @@ h2,h5{
 	/*position: absolute;*/
 }
 
+h2{
+	height: 35px;
+}
 button{
 	margin: 3%;
 	height: 50px;
